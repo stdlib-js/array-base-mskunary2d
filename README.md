@@ -48,6 +48,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import mskunary2d from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-mskunary2d@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/array-base-mskunary2d/tags). For example,
+
+```javascript
 import mskunary2d from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-mskunary2d@v0.2.3-esm/index.mjs';
 ```
 
@@ -106,7 +111,7 @@ var bernoulli = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-bern
 import filled2dBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-filled2d-by@esm/index.mjs';
 import zeros2d from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-zeros2d@esm/index.mjs';
 import abs from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-abs@esm/index.mjs';
-import mskunary2d from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-mskunary2d@v0.2.3-esm/index.mjs';
+import mskunary2d from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-mskunary2d@esm/index.mjs';
 
 var shape = [ 3, 3 ];
 
